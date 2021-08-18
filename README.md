@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @yaroslav500
+- 👀 I’m interested in React Development.
+- 🌱 I’ve rich experience in React dev.
+- 💞️ I’d like to work remotely.
+- 📫 Thank you.
